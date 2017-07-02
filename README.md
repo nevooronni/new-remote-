@@ -1,17 +1,16 @@
-OOkIE-RECIPE WEBPAGE
+# COOKIE-RECIPE WEBPAGE
 
-AUTHOR
- Neville Oronni
+## AUTHOR  
+ **Neville Oronni**
 
-DESCRIPTION
-  A simplewebpage that displays a recipe on how to bake cookies which instructions on it.
+## DESCRIPTION  
+  A simple webpage that displays a **recipe** on how to bake cookies which instructions on it.
 
-TECHNOLOGY 
- contains simple html
+## TECHNOLOGY  
+ contains _simple_ html
 
-CONTACT INFORMATION
-  nevooronni@gmail.com
+## CONTACT INFORMATION  
+  [email address: nevooronni@gmail.com](nevooronni@gmail.com)
 
-LICENSE INFORMATION
- MIT License
-
+## LICENSE INFORMATION  
+ **MIT License**
